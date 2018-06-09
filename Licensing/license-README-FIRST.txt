@@ -10,12 +10,11 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
 ---------------------------------------------
-Find more great resources @ WpFreeware.com
 Sincerely,
-The WpFreeware Team.
+The Tesrab Network Team.
 ---------------------------------------------
-http://www.wpfreeware.com
-PS. Those terms might change as we update our license on our website, 
+https://tesrab.network/
+PS. Terms of service might change as we update our license on our website, 
 please be sure to check the latest license terms on our website to avoid any misuse of our resources.
 
 Thank you!
