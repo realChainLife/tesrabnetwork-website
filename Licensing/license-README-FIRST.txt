@@ -1,8 +1,7 @@
-Template Name: AppStation
-Template URI: http://www.wpfreeware.com/appstation-free-bootstrap-html5-app-landing-page-theme/
-Author: WpFreeware
-Author URI: http://www.wpfreeware.com
-Description: App Landing Bootstrap HTML5/CSS3 One Page Template
+Site Name: Tesrab Network
+Site URI: https://tesrab.network/
+Author: Tesrab Network
+Description: Website landing page for Tesrab Network
 Version: 1.0 
 License: GPL
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
