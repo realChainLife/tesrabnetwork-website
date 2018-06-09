@@ -1,6 +1,6 @@
 Site Name: Tesrab Network
 Site URI: https://tesrab.network/
-Author: Tesrab Network
+Author: Tesrab Network Team
 Description: Website landing page for Tesrab Network
 Version: 1.0 
 License: GPL
