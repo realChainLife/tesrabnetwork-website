@@ -1,4 +1,4 @@
-*** AppStation Changelog ***
+*** TesrabNetwork Changelog ***
 -------------------------------------------------------------------------
 
 Version 1.0
