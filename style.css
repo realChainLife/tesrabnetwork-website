@@ -652,7 +652,7 @@ img{border: none;}
   width: 100%;
 }
 .single_pricelist_content h1{
-  color: #FFD200;  
+  color: #592f62;  
   font-size: 25px;
 }
 .single_pricelist_content p {
@@ -662,7 +662,7 @@ img{border: none;}
   text-align: left;
 }
 .single_pricelist_content p > i {
-  color: #FFD200;
+  color: #592f62;
   font-size: 18px;
   margin-right: 12px;
   text-align: center;
@@ -765,7 +765,7 @@ img{border: none;}
   margin-top: 20px;
 }
 .slider_content p > i {
-  color: #FFD200;
+  color: #592f62;
   display: inline-block;
   font-size: 22px;
   margin: 0 4px;
@@ -789,7 +789,7 @@ img{border: none;}
 }
 .carousel-indicators li {
   background-color: rgba(0, 0, 0, 0);
-  border: 1px solid #FFD200;
+  border: 1px solid #592f62;
   border-radius: 10px;
   cursor: pointer;
   display: inline-block;
@@ -799,7 +799,7 @@ img{border: none;}
   width: 10px;
 }
 .carousel-indicators .active {
-  background-color: #FFD200;
+  background-color: #592f62;
   height: 12px;
   margin: 0;
   width: 12px;
@@ -834,7 +834,7 @@ img{border: none;}
   font-size: 45px;  
 }
 .newsletter_left h2 > span {
-  color: #FFD200;  
+  color: #592f62;  
   margin-left: 8px;
 }
 .newsletter_left p{
@@ -863,7 +863,7 @@ img{border: none;}
   width: 360px;
 }
 .newsletter_right form input[type="submit"] {
-  background-color: #FFD200;
+  background-color: #592f62;
   border: medium none;
   color: #FFFFFF;
   font-size: 18px;
@@ -879,7 +879,7 @@ img{border: none;}
   transition: all 0.5s;
 }
 .newsletter_right form input[type="submit"]:hover,.newsletter_right form input[type="submit"]:focus{
-  background-color: #ffd200;
+  background-color: #592f62;
 }
 
 /*--------------------*/
@@ -952,11 +952,11 @@ img{border: none;}
   width: 42px;
 }
 .clientSlider_left:hover,.clientSlider_left:focus,.clientSlider_right:hover,.clientSlider_right:focus{
-  background-color: #ffd200;
+  background-color: #592f62;
   color: #fff;
   text-decoration: none;
   outline: none;
-  border: 1px solid #ffd200;
+  border: 1px solid #592f62;
 }
 
 /*--------------------*/
@@ -1000,7 +1000,7 @@ img{border: none;}
   margin-bottom: -10px;
 }
 .contact_media i {
-  color: #FFD200;
+  color: #592f62;
   display: inline-block;
   float: left !important;
   font-size: 25px;
@@ -1097,7 +1097,7 @@ img{border: none;}
           border-radius:0px;
 }
 .contact_sendbtn {
-  background-color: #FFD200;
+  background-color: #592f62;
   border: 1px solid #FFFFFF;
   color: #FFFFFF !important;
   float: left;
@@ -1114,9 +1114,9 @@ img{border: none;}
   transition: all 0.5s;
 }
 .contact_sendbtn:hover,.contact_sendbtn:focus{
-  border-color: #ffd200;
+  border-color: #592f62;
   background-color: #ffffff;
-  color: #ffd200 !important;
+  color: #592f62 !important;
 }
 .google_map {
   border: 2px solid #FFFFFF;
@@ -1155,7 +1155,7 @@ img{border: none;}
   font-size: 15px; 
 }
 .footer_area p>a{
-  color: #ffd200;
+  color: #592f62;
   margin-right: 5px;
 }
 .slider_area{
