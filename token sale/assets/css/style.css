@@ -583,7 +583,7 @@ input::-ms-input-placeholder {
     padding-bottom: 20px;
     text-transform: uppercase;
     font-size: 0.875rem;
-    color: #fff;
+    color: #492f6f;
 }
 .navbar-brand {
     padding: 0px 15px;
@@ -697,11 +697,11 @@ input::-ms-input-placeholder {
 
 
 .main_home h1{
-    color: #fff;
+    color: #492f6f;
     margin-bottom:20px;
 }
 .main_home p{
-    color: #fff;
+    color: #492f6f;
     max-width: 60%;
     margin: 0 auto;
     padding-bottom: 30px;
@@ -710,7 +710,7 @@ input::-ms-input-placeholder {
 }
 
 .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
-    color: #fff;
+    color: #492f6f;
     outline: none;
     background: #e74c3c;
 }
