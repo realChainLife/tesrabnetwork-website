@@ -565,7 +565,7 @@ input::-ms-input-placeholder {
     margin: 15px auto;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-    color:#fff;
+    color:#592f6f;
     background: transparent;
 }
 .main_menu_bg .navbar {}
