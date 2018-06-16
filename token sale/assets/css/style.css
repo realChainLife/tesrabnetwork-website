@@ -697,11 +697,11 @@ input::-ms-input-placeholder {
 
 
 .main_home h1{
-    color: #492f6f;
+    color: #fff;
     margin-bottom:20px;
 }
 .main_home p{
-    color: #492f6f;
+    color: #fff;
     max-width: 60%;
     margin: 0 auto;
     padding-bottom: 30px;
@@ -710,7 +710,7 @@ input::-ms-input-placeholder {
 }
 
 .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
-    color: #492f6f;
+    color: #fff;
     outline: none;
     background: #e74c3c;
 }
