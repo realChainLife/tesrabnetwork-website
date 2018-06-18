@@ -384,7 +384,7 @@ Button
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #592f6f;
+    background-color: #592f6f; 
     border-color: #592f6f;
 }
 .btn {
