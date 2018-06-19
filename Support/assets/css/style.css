@@ -1215,7 +1215,7 @@ button.btn-md:hover {
     height: 60px;
     margin:20px auto;
     border-radius: 50%;
-    box-shadow: 0px 0px 0px 3px rgba(231, 76, 60, 0.65);
+    box-shadow: 0px 0px 0px 3px rgb(89, 47, 111);
 }
 
 li:hover .single_team_img img{
