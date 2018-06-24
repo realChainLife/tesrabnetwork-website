@@ -1,2 +1,1 @@
-# Tesrab Network Token
 
